@@ -1,0 +1,7 @@
+POST http://localhost:3003/api/todos
+Content-Type: application/json
+
+{
+  "todo":"Run like hell",
+  "done": false
+}

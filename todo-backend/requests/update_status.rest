@@ -1,0 +1,7 @@
+PUT http://localhost:3003/api/todos/633e8a08d2ee8b7acfab2844
+Content-Type: application/json
+
+{
+  "todo":"Shooting targets",
+  "done": true
+}
